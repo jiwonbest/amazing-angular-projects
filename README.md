@@ -7,6 +7,7 @@ Originally published on <a href="https://medium.mybridge.co/18-amazing-open-sour
 
 <a href="http://www.mybridge.co"> Mybridge </a> picked the top 18 Angular 1.x and Angular 2.0 apps out of nearly 550 open source projects. The average number of Github stars from the 22 projects was 683. If you know another open source project that is great, feel free to contribute. Let's make sure only full-working apps are included here.
 
+If you're looking for <a href="https://github.com/jiwonbest/amazing-react-projects"> Amazing-React-Projects </a> follow this link.
 
 #### Angular 1.x
 * [Soundnode: Soundcloud for Desktop (Mac, Windows, and Linux), built with NW.js, Node.js, Angular.js, and with the Soundcloud API ★2442](https://github.com/Soundnode/soundnode-app)
