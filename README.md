@@ -3,7 +3,7 @@ Collection of amazing open source Angular 1.x & Angular 2.0 projects
 
 <a href="https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.oz0g4c7mh"> <img src="7.png" width="800" alt="Mybridge Medium"></a>
 
-Originally published on <a href="https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f#.oz0g4c7mh"> Medium </a>.
+Originally published on <a href="https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee"> Medium </a>.
 
 <a href="http://www.mybridge.co"> Mybridge </a> picked the top 18 Angular 1.x and Angular 2.0 apps out of nearly 550 open source projects. The average number of Github stars from the 22 projects was 683. If you know another open source project that is great, feel free to contribute. Let's make sure only full-working apps are included here.
 
